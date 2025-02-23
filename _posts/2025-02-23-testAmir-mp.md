@@ -1,5 +1,5 @@
 ---
-layout:        _test
+layout:        post
 title:         "check check 菜鸡 test "
 author:        "amiracleta:
 header-style:  text
